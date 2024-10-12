@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'Deepanshu',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://deepu759k.github.io/kasm-new/',
-    contactUrl: 'https://github.com/deepu759k/kasm-latest/issues',
+    contactUrl: 'https://github.com/deepu759k/kasm-new/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
